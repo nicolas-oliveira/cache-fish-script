@@ -1,6 +1,6 @@
 <h1 align="center">
-    <img src="./github/fish.png/>
-    Cache size in FISH SHELL SCRIPT 
+    <img alt="Fish shell" title="Fish script" src=".github/fish.png/>
 </h1>
-
-###
+<h3 align="center">
+    Cache size in FISH SHELL SCRIPT
+</h3>
